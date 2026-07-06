@@ -2,7 +2,7 @@ title: <My Shopping List> # EDIT: Fill this in
 description: <Just a page with my shopping list> # EDIT: Fill this in
 
 remote_theme: just-the-docs/just-the-docs # Borrowing the theme from https://github.com/pmarsceill/just-the-docs
-github_repo_url: "https://github.com/slam128/github-pages-workshop" # EDIT: REPLACE WITH THE URL TO YOUR WEBPAGE
+github_repo_url: "https://slam128.github.io/github-pages-workshop/" # EDIT: REPLACE WITH THE URL TO YOUR WEBPAGE
 
 # Heading anchor links appear on hover over h1-h6 tags in page content
 # allowing users to deep link to a particular heading on a page. (true or false)
